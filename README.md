@@ -6,9 +6,9 @@
 <br/>
 
 <!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkhunt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/om-khunt-b12257280)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkhunt90@gmail.com)
 
 <br/>
 
@@ -21,7 +21,7 @@
 ```python
 om = {
     "name":        "Om Khunt",
-    "role":        "Final Year CS Student @ Uka Tarsadia University",
+    "role":        "Final Year CE Student @ Uka Tarsadia University",
     "focus":       ["Full Stack Development", "AI/ML", "Data Analysis"],
     "learning":    "Data Analysis & building smarter systems",
     "hackathon":   "Finalist @ IIT Gandhinagar Hackathon 🏆",
@@ -29,7 +29,7 @@ om = {
 }
 ```
 
-- 🎓 Final year **Computer Science** student at Uka Tarsadia University
+- 🎓 Final year **Computer Engineering** student at Uka Tarsadia University
 - 🤖 Building at the intersection of **AI, automation, and real-world impact**
 - 📊 Currently diving deep into **Data Analysis & Python ecosystems**
 - 🏆 Hackathon finalist at **IIT Gandhinagar** — built under pressure, shipped anyway
@@ -50,7 +50,7 @@ om = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Tools & Automation**
@@ -65,20 +65,37 @@ om = {
 ## 🚀 Featured Projects
 
 ### 🛒 AI-Powered E-Commerce Website
-> Smart shopping experience with AI recommendations and automation
+> Decor shopping reimagined with Generative AI & Computer Vision
 
-- Built an end-to-end e-commerce platform integrated with **AI capabilities**
-- Features product recommendations, intelligent search, and automated workflows
-- **Stack:** Python · AI/ML · Full Stack Web
+- 🎨 **AI Visualization** — Hugging Face image-to-image API lets users see decor in their space before buying
+- 🔍 **Auto Shopping Lists** — DETR object detection identifies chairs, vases, lights in generated images → adds to cart automatically
+- 💳 **Full Commerce Flow** — Google OAuth + JWT auth, real-time cart, Stripe payments
+- 📄 **Automated Invoicing** — PDFKit generates invoices on payment → Nodemailer emails to customer instantly
+
+**Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-### ♻️ Food Waste Management App
-> Mobile app tackling real-world food waste — built for impact
+### ♻️ Food Waste Management — Mobile App
+> Connecting surplus food to those who need it most
 
-- Developed a **Flutter mobile app** connecting food donors with recipients
-- Designed to reduce food waste through smart logistics and notifications
-- **Stack:** Flutter · Firebase · Mobile Development
+- 🍱 **Donor Flow** — Individuals/restaurants log leftover food with quantity, location & pickup time
+- 🤝 **Volunteer & NGO Network** — Nearby volunteers & organizations get notified instantly to claim & deliver food
+- 📍 **Location-Based Matching** — Matches donors to nearest available volunteer or organization automatically
+- 🔔 **Real-Time Notifications** — Push alerts when food is posted near a volunteer's area
+- 📊 **Impact Tracker** — Tracks meals saved, donations made, and volunteer activity
+
+**Stack:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 ---
 
@@ -95,24 +112,28 @@ om = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omkhunt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkhunt&layout=compact&theme=tokyonight&hide_border=true" />
+[![omkhunt90 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkhunt90&theme=tokyo-night&hide_border=true)](https://github.com/omkhunt90)
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=omkhunt&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=omkhunt90&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omkhunt90&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
----
 
 ## 🌱 Currently Learning
 
 ```
-📊 Data Analysis  ──────────────────░░░░  75%
-🤖 Machine Learning  ───────────────░░░░  70%
-⚡ System Design  ──────────────────░░░░  60%
-☁️  Cloud & Deployment  ────────────░░░░  50%
+
+📊 Data Analysis     ████████████████░░░░  75%
+🤖 Machine Learning  ████████░░░░░░░░░░░░  40%
+🐍 Python            █████████████░░░░░░░  65%
+⚙️ Automation        ██████████░░░░░░░░░░  50%
+
 ```
 
 ---
@@ -123,12 +144,8 @@ I'm open to **internship opportunities**, **collaborations**, and interesting co
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkhunt)
-[![Email Me](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om@email.com)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=omkhunt&color=6C63FF&style=for-the-badge&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/om-khunt-b12257280)
+[![Email Me](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkhunt90@gmail.com)
 
 </div>
 
